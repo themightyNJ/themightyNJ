@@ -1,5 +1,5 @@
-# Hi there 👋
-
+## Hello World! 👋
+# I am Nitish Jha @TheMightyNJ
 <!--
 **themightyNJ/themightyNJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
